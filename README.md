@@ -1,7 +1,7 @@
 # 🧩 Projeto 1 – Sistema de Cadastro de Clientes e Produtos
 
 Este projeto foi desenvolvido em **PHP** com **MySQL** e tem como objetivo permitir o **cadastro, listagem e administração de clientes e produtos**.
-Ele é compatível com o ambiente **XAMPP** e cria automaticamente o banco de dados na primeira execução.
+Ele é compatível com o ambiente **XAMPP**.
 
 ---
 
