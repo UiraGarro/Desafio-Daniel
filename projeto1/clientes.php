@@ -8,7 +8,7 @@
 <div class="container mt-3">
     <h2>Clientes atendidos pela Empresa</h2>
     <p>Detalhes dos nossos clientes por Cidade e Estado</p>
-    <a href="form_cliente.php" class="btn btn-primary mb-3">Adicionar Novo Cliente</a> <!-- Botão adicionado -->
+    <a href="admin/index.php?pg=form_clientes" class="btn btn-primary mb-3">Adicionar Novo Cliente</a>
     <table class="table table-dark table-hover">
         <thead>
         <tr>

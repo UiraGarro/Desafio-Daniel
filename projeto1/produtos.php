@@ -8,7 +8,7 @@
 <div class="container mt-3">
     <h2>Produtos disponíveis</h2>
     <p>Detalhes dos nossos produtos e seus preços</p>
-    <a href="form_produto.php" class="btn btn-primary mb-3">Adicionar Novo Produto</a> 
+    <a href="admin/index.php?pg=form_produtos" class="btn btn-primary mb-3">Adicionar Novo Produto</a> 
     <table class="table table-dark table-hover">
         <thead>
         <tr>

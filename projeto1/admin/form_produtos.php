@@ -1,4 +1,4 @@
-<form action="?pg=cadastra_produtos" method="POST">
+<form action="?pg=cadastra_produtos" method="post">
     <label>Nome do Produto:</label>
     <input type="text" name="nome_produto" required>
     <label>Número de Série:</label>

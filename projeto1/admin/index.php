@@ -1,4 +1,5 @@
 <?php
+    
     echo "Painel administrativo";
 ?>
 
@@ -19,4 +20,3 @@
     }else{
         echo "Página não encontrada";
     }
-?>
