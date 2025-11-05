@@ -10,7 +10,6 @@ Ele é compatível com o ambiente **XAMPP** e cria automaticamente o banco de da
 * ✅ Cadastro de clientes (nome, cidade e estado)
 * ✅ Cadastro de produtos (nome, número de série, preço e quantidade em estoque)
 * ✅ Listagem completa com opção de alterar e excluir
-* ✅ Criação automática do banco de dados na primeira execução
 * ✅ Interface simples com navegação entre abas
 
 ---
@@ -34,9 +33,6 @@ projeto1/
 │   ├── form_clientes_alterar.php 
 │   ├── index.php
 │   └── config.inc.php
-│
-├── configdb/
-│   └── db_init.php
 │
 ├── clientes.php
 ├── conteudo.php
